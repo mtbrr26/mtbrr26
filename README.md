@@ -19,9 +19,9 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 - **Programming Languages & Libraries:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Stata_logo_med_blue.png" alt="Stata" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Stata.png" alt="Stata" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-0FCF05A83F-seeklogo.com.png" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
@@ -59,9 +59,6 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
   - BERT
   - DistilBERT
   - OPENAI API
-
-## Master's Thesis
-Used state-of-the-art large language models to analyze the ECB’s communication.
 
 ## Get In Touch
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
