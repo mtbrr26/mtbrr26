@@ -1,6 +1,3 @@
-# ABOUT-ME
------------
-
 # Hi 👋, I'm Mathieu Breier
 
 I am a Data Scientist skilled in Python, R, Stata and SQL, passionate about deriving insights from data. Currently based in Barcelona, I have extensive experience in project management, data analysis, and consulting roles in various fields, including economics, energy and sustainability. I have graduated in July 2024 from the Barcelona School of Economics with a master's degree in Data Science for Decision Making.
