@@ -15,8 +15,6 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
   - Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
   - Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
 
-https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png
-
 ## Technical Skills
 - **Programming Languages & Libraries:**
 <p align="left">
