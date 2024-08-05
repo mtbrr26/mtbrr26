@@ -15,13 +15,15 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
   - Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
   - Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
 
+https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png
+
 ## Technical Skills
 - **Programming Languages & Libraries:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KueE4W0JyHNbnKfpQSqp5heT_sABTNcYnQ&s" alt="Stata" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="[https://seeklogo.com/images/M/microsoft-excel-logo-0FCF05A83F-seeklogo.com.png](https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png)" alt="Excel" width="40" height="40"/>
+  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
@@ -44,7 +46,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 
 - **GeoSpatial Analysis:**
 <p align="left">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e5/QGIS_logo_new.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png)" alt="QGIS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </p>
 
 - **Development Tools & Environments:**
