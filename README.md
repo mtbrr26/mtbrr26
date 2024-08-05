@@ -5,73 +5,68 @@ I am a Data Scientist skilled in Python, R, Stata and SQL, passionate about deri
 My GitHub portfolio showcases a wide range of data science projects, both solo and collaborative, demonstrating expertise across Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning.
 
 ## About Me
-+ 🌍 Location: Barcelona, Spain
-+ 📚 Education:
-  + MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
-  + MSc in Economics of Energy, Sustainability, and Climate Change, Barcelona School of Economics (2022-2023)
-  + Bachelor in Economics and Management, University Saint-Louis of Brussels (2018-2022)
-+ 📈 Professional Experience:
-  + Trainee at European Parliament Liaison Office in Munich (06/2022)
-  + Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
-  + Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
+- 🌍 **Location**: Brussels, Belgium
+- 📚 **Education**:
+  - MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
+  - MSc in Economics of Energy, Sustainability, and Climate Change, Barcelona School of Economics (2022-2023)
+  - Bachelor in Economics and Management, University Saint-Louis of Brussels (2018-2022)
+- 📈 **Professional Experience**:
+  - Trainee at European Parliament Liaison Office in Munich (06/2022)
+  - Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
+  - Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
 
 ## Technical Skills
-Programming Languages & Libraries:
+- **Programming Languages & Libraries:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Stata_logo_med_blue.png" alt="Stata" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="100" height="50" style="margin-right: 20px;"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="40"/>
+  <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="80" height="40" style="margin-right: 20px;"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
+</p>
 
-Python
-pandas
-numpy
-scikit-learn
-Matplotlib
-seaborn
-Keras
-tensorflow
-R
-Stata
-HTML
-SQL
-QGIS
-Excel
-Database Technologies:
+- **Database Technologies:**
+<p align="left">
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> <!-- Generic SQL icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB Logo" width="80" height="40"/>
+</p>
 
-SQL
-MySQL
-MongoDB
-Cloud Computing:
+- **GeoSpatial Analysis:**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
+</p>
 
-AWS
-Data Visualization:
+- **Development Tools & Environments:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
+</p>
 
-Tableau
-Development Tools & Environments:
+- **Large Language Models (LLM):**
+  - BERT
+  - DistilBERT
+  - OPENAI API
 
-Jupyter
-Anaconda
-VS Code
-Git
-Large Language Models (LLM):
+## Master's Thesis
+Used state-of-the-art large language models to analyze the ECB’s communication.
 
-BERT
-OPENAI API
-Master's Thesis
-Used state-of-the-art large language models to analyze the ECB’s communication and measure the discordance of ECB Governors as perceived by the media.
-
-Summary of Findings
-First Contribution to Research: Application of advanced LLMs to a novel dataset comprising media coverage on central banking. Sentiment analysis was applied to 30,000 media articles from July 2022 to March 2024 using a fine-tuned RoBERTa model, with 78% of the articles classified as "hawkish".
-Second Contribution to Research: Analysis of the dataset after applying LLMs. An interquartile range (IQR) approach was used to measure the diversity of opinions among ECB Governing Council members. The National Bank Governor from Germany was consistently seen as the most hawkish, whereas Southern European governors from Portugal, Greece, Italy, and Spain were more dovish.
-Data Projects
-Explore my repositories below for a detailed look at my work, where each project comes with a README that details the objectives, techniques used, and insights uncovered.
-
-India Used Car Price Predictor
-NLP CEO CFO Sentiment Analysis
-ICU Length Of Stay
-Music Store SQL
-WWII Aerial Bombing Operations
-Youth Player Football Position Predictor
-Get In Touch
+## Get In Touch
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
 
-📞 Mobile: +34 654 088 993
-📧 Email: mathieu.breier@bse.eu
-📫 Connect: LinkedIn Profile
-📄 CV: View my CV here
+- 📞 **Mobile:** +34 654 088 993
+- 📧 **Email:** mathieu.breier@bse.eu
+- 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/mathieu-breier/)
+- 🌐 **Personal Website:** [View my Website here](https://mtbrr26.github.io/MathieuBreier.github.io/)
