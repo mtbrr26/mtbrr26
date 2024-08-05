@@ -7,13 +7,13 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 ## About Me
 + 🌍 Location: Barcelona, Spain
 + 📚 Education:
-+ + MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
-+ + MSc in Economics of Energy, Sustainability, and Climate Change, Barcelona School of Economics (2022-2023)
-+ + Bachelor in Economics and Management, University Saint-Louis of Brussels (2018-2022)
+  + MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
+  + MSc in Economics of Energy, Sustainability, and Climate Change, Barcelona School of Economics (2022-2023)
+  + Bachelor in Economics and Management, University Saint-Louis of Brussels (2018-2022)
 + 📈 Professional Experience:
-+ + Trainee at European Parliament Liaison Office in Munich (06/2022)
-+ + Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
-+ + Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
+  + Trainee at European Parliament Liaison Office in Munich (06/2022)
+  + Trainee at Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
+  + Project Manager at The Young Entrepreneurs, Brussels (09/2016–05/2017)
 
 ## Technical Skills
 Programming Languages & Libraries:
