@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mathieu Breier
 
-I am a Data Scientist skilled in Python, R, Stata and SQL, passionate about deriving insights from data. Currently based in Barcelona, I have extensive experience in project management, data analysis, and in various other fields, including economics, economics of energy and sustainability. I have graduated in July 2024 from the Barcelona School of Economics with a master's degree in Data Science for Decision Making.
+I am a Data Scientist skilled in Python, R, Stata and SQL, passionate about deriving insights from data. Currently based in Barcelona, I have extensive experience in project management, data analysis, and in various other fields, including econometrics, economics of energy and sustainability. I have graduated in July 2024 from the Barcelona School of Economics with a master's degree in Data Science for Decision Making.
 
 My GitHub portfolio showcases a wide range of data science projects, both solo and collaborative, demonstrating expertise across Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning.
 
