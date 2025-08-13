@@ -81,7 +81,6 @@ BERT · DistilBERT · OpenAI API
 ## Get In Touch
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
 
-- 📞 **Mobile:** +34 654 088 993
 - 📧 **Email:** mathieu.breier@bse.eu
 - 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/mathieu-breier/)
 - 🌐 **Personal Website:** [View my Website here](https://mtbrr26.github.io/MathieuBreier.github.io/)
