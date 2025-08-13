@@ -55,9 +55,9 @@ SQL · MySQL · MongoDB
 ### Business Intelligence & Analytics
 Tableau · Excel · Alteryx
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="40"/>
-  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="Alteryx" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="30"/>
+  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="Alteryx" height="30"/>
 </p>
 
 ### Geospatial
