@@ -20,7 +20,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 ## Technical Skills
 
 ### Programming & Scripting
-**Python · R · Stata · SQL · HTML/CSS · Julia**
+Python · R · Stata · SQL · HTML/CSS · Julia
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
@@ -32,7 +32,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 </p>
 
 ### Data Science & ML (Python Stack)
-**pandas · NumPy · scikit-learn · Matplotlib · seaborn · TensorFlow · Keras · Selenium**
+pandas · NumPy · scikit-learn · Matplotlib · seaborn · TensorFlow · Keras · Selenium
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
@@ -45,7 +45,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 </p>
 
 ### Data Engineering & ETL
-**Alteryx · Python ETL (asyncio/requests/aiohttp) · SQL · Streamlit/Dash · Web scraping & automation (Selenium)**
+Alteryx · Python ETL (asyncio/requests/aiohttp) · SQL · Streamlit/Dash · Web scraping & automation (Selenium)
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="Alteryx" height="40"/>
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" height="40"/>
@@ -55,7 +55,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 </p>
 
 ### Databases & Warehousing
-**SQL · MySQL · MongoDB**
+SQL · MySQL · MongoDB
 <p align="left">
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -63,19 +63,19 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 </p>
 
 ### Business Intelligence & Analytics
-**Tableau · Excel**
+Tableau · Excel
 <p align="left">
   <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="40" height="40"/>
 </p>
 
 ### Geospatial
-**QGIS**
+QGIS
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </p>
 
 ### Development Tools & Environments
-**Jupyter · Anaconda · VS Code · Git**
+Jupyter · Anaconda · VS Code · Git
 <p align="left">
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
@@ -84,7 +84,7 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 </p>
 
 ### LLMs & AI
-**BERT · DistilBERT · OpenAI API**
+BERT · DistilBERT · OpenAI API
 
 ## Get In Touch
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
