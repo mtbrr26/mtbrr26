@@ -18,38 +18,60 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
   - Trainee – Ascari – Tempo Training and Consulting, Munich (01/2022–05/2022)
 
 ## Technical Skills
-- **Programming Languages & Libraries:**
+
+### Programming & Scripting
+**Python · R · Stata · SQL · HTML/CSS · Julia**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KueE4W0JyHNbnKfpQSqp5heT_sABTNcYnQ&s" alt="Stata" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/>
+</p>
+
+### Data Science & ML (Python Stack)
+**pandas · NumPy · scikit-learn · Matplotlib · seaborn · TensorFlow · Keras · Selenium**
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="100" height="50" style="margin-right: 20px;"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" width="100" height="50" style="margin-right: 20px;"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="40"/>
-  <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="80" height="40" style="margin-right: 20px;"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+  <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40" style="margin-right: 20px;"/>
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
 </p>
 
-- **Database Technologies:**
+### Data Engineering & ETL
+**Alteryx · Python ETL (asyncio/requests/aiohttp) · SQL · Streamlit/Dash · Web scraping & automation (Selenium)**
+
+### Databases & Warehousing
+**SQL · MySQL · MongoDB**
 <p align="left">
-  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> <!-- Generic SQL icon -->
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB Logo" width="80" height="40"/>
 </p>
 
-- **GeoSpatial Analysis:**
+### Business Intelligence & Analytics
+**Tableau · Excel**
+<p align="left">
+  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Excel-365Excel-2016-2019-Logo.png" alt="Excel" width="40" height="40"/>
+</p>
+
+### Geospatial
+**QGIS**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </p>
 
-- **Development Tools & Environments:**
+### Modeling & Simulation
+**Vensim (system dynamics)**
+
+### Development Tools & Environments
+**Jupyter · Anaconda · VS Code · Git**
 <p align="left">
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
@@ -57,10 +79,8 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
 </p>
 
-- **Large Language Models (LLM):**
-  - BERT
-  - DistilBERT
-  - OPENAI API
+### LLMs & AI
+**BERT · DistilBERT · OpenAI API**
 
 ## Get In Touch
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
