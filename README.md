@@ -46,6 +46,13 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 
 ### Data Engineering & ETL
 **Alteryx · Python ETL (asyncio/requests/aiohttp) · SQL · Streamlit/Dash · Web scraping & automation (Selenium)**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="Alteryx" height="40"/>
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Dash (Plotly)" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="40"/>
+</p>
 
 ### Databases & Warehousing
 **SQL · MySQL · MongoDB**
@@ -66,9 +73,6 @@ My GitHub portfolio showcases a wide range of data science projects, both solo a
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </p>
-
-### Modeling & Simulation
-**Vensim (system dynamics)**
 
 ### Development Tools & Environments
 **Jupyter · Anaconda · VS Code · Git**
