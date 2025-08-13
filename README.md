@@ -44,16 +44,6 @@ pandas · NumPy · scikit-learn · Matplotlib · seaborn · TensorFlow · Keras 
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
 </p>
 
-### Data Engineering & ETL
-Alteryx · Python ETL (asyncio/requests/aiohttp) · SQL · Streamlit/Dash · Web scraping & automation (Selenium)
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="Alteryx" height="40"/>
-  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Dash (Plotly)" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="40"/>
-</p>
-
 ### Databases & Warehousing
 SQL · MySQL · MongoDB
 <p align="left">
